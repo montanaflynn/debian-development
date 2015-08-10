@@ -1,4 +1,4 @@
-FROM debian:squeeze
+FROM debian:wheezy
 MAINTAINER Montana Flynn <montana@montanaflynn.me>
 
 ENV JQ_SHA256 b9b63aa4b3cc85df8bdca884effb69d66e9ebd717454a9e212d9423ffe3e955f
